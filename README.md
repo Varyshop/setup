@@ -9,6 +9,9 @@ Tento repozitář obsahuje konfigurační soubory pro nasazení Varyshop aplikac
 - Registrovaná doména s A záznamem směřujícím na váš server
 - Otevřené porty 80 a 443 na firewallu
 
+```bash
+chmod +x setup.sh
+```
 ## Rychlé nasazení
 
 Pro rychlé nastavení použijte následující příkaz:
